@@ -1,6 +1,7 @@
 .wrapper h1 {
-  font-family: 'Londrina Solid';
+  font-family: Poppins, sans-serif;
   font-size: 5rem;
+  line-height: 0.9;
 }
 
 @media (max-width: 992px) {

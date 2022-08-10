@@ -53,6 +53,7 @@ function App() {
           <NavBar />
           <Switch>
             <Route exact path="/" component={AuctionPage} />
+            <Route exact path="/test" component={AuctionPage} />
             <Redirect from="/auction/:id" to="/noun/:id" />
             <Route
               exact

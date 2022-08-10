@@ -62,10 +62,12 @@ const Documentation = () => {
                   <Trans>Nouns artwork is in the {publicDomainLink}.</Trans>
                 </li>
                 <li>
-                  <Trans>One Noun is trustlessly auctioned every 24 hours, forever.</Trans>
+                  <Trans>One Teddy is trustlessly auctioned every 24 hours, forever.</Trans>
                 </li>
                 <li>
-                  <Trans>100% of Noun auction proceeds are trustlessly sent to the treasury.</Trans>
+                  <Trans>
+                    100% of Teddy auction proceeds are trustlessly sent to the treasury.
+                  </Trans>
                 </li>
                 <li>
                   <Trans>Settlement of one auction kicks off the next.</Trans>
